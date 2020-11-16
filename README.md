@@ -31,10 +31,10 @@ After having obtained above, for the modified dataset of students, we need to co
 1. How is the district summary affected?
     
     **Original_District_Summary**
-    ![Original_District_Summary](Resources\original_district_summary.png)
+    ![Original_District_Summary](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_district_summary.png)
    
     **Modified_Data_District_Summary**
-    ![Modified_Data_District_Summary](Resources\New_district_summary.png)
+    ![Modified_Data_District_Summary](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/New_district_summary.png)
 
     - Average math score got reduced by 0.1 units in modified data's analysis compared to original data's analysis.
     - Percentage of students passed in Math reduced by 0.2% in modified data's district summary as compared to original data's analysis.
@@ -44,10 +44,10 @@ After having obtained above, for the modified dataset of students, we need to co
 2. How is the school summary affected?
     
     **Original_School_Summary**
-    ![Original_School_Summary](Resources\original_per_school_summary_format.png)
+    ![Original_School_Summary](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_per_school_summary_format.png)
     
     **Modified_School_District_Summary**
-    ![Modified_School_District_Summary](Resources\new_school_summary_format.png)
+    ![Modified_School_District_Summary](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_school_summary_format.png)
 
 - For Thomas High School, in the School Summary, as per the metrics obtained after dropping grade 9th's results, the metrics below got affected as described herewith:
 
@@ -58,18 +58,18 @@ After having obtained above, for the modified dataset of students, we need to co
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
     **Original_Top_5_Schools**
-    ![Original_Top_5_Schools](Resources\original_top_5_schools.png)
+    ![Original_Top_5_Schools](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_top_5_schools.png)
 
     **Modified_top_five_schools**
-    ![Modified_top_five_schools](Resources\new_top_5_schools.png)
+    ![Modified_top_five_schools](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_top_5_schools.png)
 
     Relative to other schools, Thomas High School's still maintained second rank, from the top along with all other schools maintaining their same rank, as they had during the analysis from original data.
 
     **Original_Bottom_5_Schools**
-    ![Original_Bottom_5_Schools](Resources\original_bottom_5_schools.png)
+    ![Original_Bottom_5_Schools](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_bottom_5_schools.png)
 
     **Modified_Bottom_five_schools**
-    ![Modified_Bottom_five_schools](Resources\new_bottom_5_schools.png)
+    ![Modified_Bottom_five_schools](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_bottom_5_schools.png)
 
     Same schools were at top and bottom 5 as per modified dataset, as they had in original dataset analysis. Hence, performance or ranking of Thomas High School and others, remained same in original and new analysis.
 
@@ -79,19 +79,19 @@ After having obtained above, for the modified dataset of students, we need to co
 
         **Original_Math_Scores_by_grade**
 
-        ![Original_Math_Scores_by_grade](Resources\original_ninth_grade_math_scores_df_formatted.png)
+        ![Original_Math_Scores_by_grade](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_ninth_grade_math_scores_df_formatted.png)
 
          **Modified_Math_Scores_by_grade**
 
-        ![Modified_Math_Scores_by_grade](Resources\new_ninth_grade_math_scores_df_formatted.png)
+        ![Modified_Math_Scores_by_grade](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_ninth_grade_math_scores_df_formatted.png)
 
         **Original_Reading_Scores_by_grade**
 
-        ![Original_Reading_Scores_by_grade](Resources\original_ninth_grade_reading_scores_df_formatted.png)
+        ![Original_Reading_Scores_by_grade](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_ninth_grade_reading_scores_df_formatted.png)
 
         **Modified_Reading_Scores_by_grade**
 
-        ![Modified_Reading_Scores_by_grade](Resources\new_ninth_grade_reading_scores_df_formatted.png)
+        ![Modified_Reading_Scores_by_grade](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_ninth_grade_reading_scores_df_formatted.png)
 
         By grade, analysis for all grades, for each of the school , remained unaltered. Only the new analysis shows 'NaNs' for grade 9th Math and Reading Scores and no other scores for Thomas High School or any other school got changed.
 
@@ -99,11 +99,11 @@ After having obtained above, for the modified dataset of students, we need to co
         
     **Original_Scores_by_Spending**
 
-    ![Original_Scores_by_Spending](Resources\original_spending-formatted.png)
+    ![Original_Scores_by_Spending](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_spending-formatted.png)
 
     **Modified_Scores_by_Spending**
 
-    ![Modified_Scores_by_Spending](Resources\new_spending-formatted.png)
+    ![Modified_Scores_by_Spending](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_spending-formatted.png)
 
     Values for Scores, by spending, for the specified bins, remain unaltered in analysis for modified dataset as compared to original dataset.
 
@@ -111,11 +111,11 @@ After having obtained above, for the modified dataset of students, we need to co
 
     **Original_Scores_by_Size**
 
-    ![Original_Scores_by_Size](Resources\original_size_summary_formatted.png)
+    ![Original_Scores_by_Size](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_size_summary_formatted.png)
 
     **Modified_Scores_by_Size**
 
-    ![Modified_Scores_by_Size](Resources\new_size_summary_formatted.png)
+    ![Modified_Scores_by_Size](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_size_summary_formatted.png)
 
     Values for Scores, by size, for the specified categories of Small, Medium and Large; remain unaltered in analysis for modified dataset as compared to original dataset.
 
@@ -123,11 +123,11 @@ After having obtained above, for the modified dataset of students, we need to co
 
     **Original_Scores_by_Type**
 
-    ![Original_Scores_by_Type](Resources\original_school_type_df.png)
+    ![Original_Scores_by_Type](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/original_school_type_df.png)
 
     **Modified_Scores_by_Type**
 
-    ![Modified_Scores_by_Type](Resources\new_school_type_df.png)
+    ![Modified_Scores_by_Type](https://github.com/kirtibhandari/School_District_Analysis/blob/main/Resources/new_school_type_df.png)
 
     Values for Scores, by school type; remain unaltered in analysis for modified dataset as compared to original dataset.
 
