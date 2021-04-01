@@ -2,7 +2,7 @@
 ## **Project Overview**:
 We need to provide insights about performance trends and patterns of schools in the district. This analysis is based upon standardized test scores of math and reading , of all the students in these schools, in grades 9th, 10th, 11th and 12th.
 
-To be able to provide insights, we need to calculate values for requested metrics. The results of these metrics will be used by School Board and Supritendent to make inform discussion and strategic decisions at the school and district level. These decision aim towards forming budget and funding priorities for these schools based upon the 
+To be able to provide insights, we need to calculate values for requested metrics. The results of these metrics will be used by School Board and Supritendent to make informed and strategic decisions at the school and district level. These decision aim towards forming budget and funding priorities for these schools based upon the 
 
 We need to keep in mind FERPA ( Family Educational Rights and Privacy Act), 1974, and ensure that we abide by this Act and treat given data of students with utmost confidentiality.
 ### **Purpose**:
@@ -53,7 +53,7 @@ After having obtained above, for the modified dataset of students, we need to co
 
     - Average Math scores for new School Summary got reduced by .067 units approximately than original metric values
     - Average Reading scores increased by .047 units approximately, in modified dataset than the one in original.
-    - % Passing Math reduced by .086% , % Passing Reading reduced by 0.290%, % Overall passing reduced by 0.318 % approximately in modified dataset , when compared with original dataset metrics btained upon analysis.
+    - % Passing Math reduced by .086% , % Passing Reading reduced by 0.290%, % Overall passing reduced by 0.318 % approximately in modified dataset , when compared with original dataset metrics obtained upon analysis.
         
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -145,7 +145,7 @@ Also, in district summary,overall Percentage of students passed in Reading reduc
 
 In School Summary, % Passing Reading reduced by 0.290% in the modified dataset compared to original dataset, for Thomas High School. 
 
-Also, in school summary, % Overall passing reduced by 0.318 % approximately in modified dataset , when compared with original dataset metrics btained upon analysis, for Thomas High School.
+Also, in school summary, % Overall passing reduced by 0.318 % approximately in modified dataset , when compared with original dataset metrics obtained upon analysis, for Thomas High School.
 
 Thus, definitely, there was a drop in overall students who passed in math, in reading and overall performance of the district too, reduced by 0.1%. 
 
