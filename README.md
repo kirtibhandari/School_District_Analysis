@@ -1,4 +1,4 @@
-# **School District Analysis**
+# **School District Data Analysis**
 ## **Project Overview**:
 We need to provide insights about performance trends and patterns of schools in the district. This analysis is based upon standardized test scores of math and reading , of all the students in these schools, in grades 9th, 10th, 11th and 12th.
 
