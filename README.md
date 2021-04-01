@@ -2,7 +2,7 @@
 ## **Project Overview**:
 We need to provide insights about performance trends and patterns of schools in the district. This analysis is based upon standardized test scores of math and reading , of all the students in these schools, in grades 9th, 10th, 11th and 12th.
 
-To be able to provide insights, we need to calculate values for requested metrics. The results of these metrics will be used by School Board and Supritendent to make informed and strategic decisions at the school and district level. These decision aim towards forming budget and funding priorities for these schools based upon the 
+To be able to provide insights, we need to calculate values for requested metrics. The results of these metrics will be used by School Board and Superintendent to make informed and strategic decisions at the school and district level. These decision aim towards forming budget and funding priorities for these schools based upon the 
 
 We need to keep in mind FERPA ( Family Educational Rights and Privacy Act), 1974, and ensure that we abide by this Act and treat given data of students with utmost confidentiality.
 ### **Purpose**:
